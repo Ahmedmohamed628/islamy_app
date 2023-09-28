@@ -1,0 +1,17 @@
+{
+"app_title" : "اسلامي",
+"quran" : "القرأن",
+"hadeth" : "الأحاديث",
+"sebha" : "التسبيح",
+"radio" : "الراديو",
+"sura_name" : "اسم السورة",
+"hadeth_name" : "الأحاديث",
+"settings" : "الأعدادات",
+"english" : "الانجليزية",
+"arabic" : "العربية",
+"theme" : "النمط",
+"dark" : "ليلي",
+"light" : "نهاري",
+"language" : "اللغة",
+"number_of_tasbeh" : "عدد التسبيحات"
+}
